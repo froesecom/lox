@@ -1,1 +1,2 @@
-String literals 4.6.1
+Reserved Words and Identifiers 4.7
+
