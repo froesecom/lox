@@ -1,2 +1,2 @@
-Reserved Words and Identifiers 4.7
+Finished section 4. Need to run and test scanner
 
